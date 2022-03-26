@@ -1,0 +1,14 @@
+//
+// Created by intersection on 3/27/22.
+//
+
+#ifndef TESTSYSTEMFORCOMPETITIVEPROGRAMMING_SOLUTION_HPP
+#define TESTSYSTEMFORCOMPETITIVEPROGRAMMING_SOLUTION_HPP
+
+class TSolution {
+public:
+    virtual int SolveFor(int, int) = 0;
+};
+
+
+#endif //TESTSYSTEMFORCOMPETITIVEPROGRAMMING_SOLUTION_HPP
